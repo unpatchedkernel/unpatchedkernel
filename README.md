@@ -23,7 +23,17 @@
 | 🔓 **Status** | Open to Board Advisory · Group / Global C-Suite Roles · Strategic Consulting |
 
 ---
+## 🚀 Current Ops
 
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| 🤖 **MAGIC AI** | Self-hosted multi-model LLM gateway deployed across Reliance Group | Claude · Gemini · OpenAI | ![Live](https://img.shields.io/badge/●-LIVE-00cc6a?style=flat-square) |
+| 🦞 **OpenClaw** | Private AI gateway with Telegram + WhatsApp integration | Docker · Nginx · REST APIs | ![Live](https://img.shields.io/badge/●-LIVE-00cc6a?style=flat-square) |
+| 🚀 **Cybrinix** | AI-native cybersecurity startup · India & Dubai markets | GenAI · Zero Trust | ![Active](https://img.shields.io/badge/●-ACTIVE-0099ff?style=flat-square) |
+| 🎙️ **Bytes & Beyond** | Cybersecurity podcast · AI fraud · Digital Bharat themes | Audio · Blog | ![Growing](https://img.shields.io/badge/●-GROWING-aa77ff?style=flat-square) |
+| ⚛️ **DBA Research** | Quantum × AI × Cybersecurity convergence framework | Birchwood University | ![WIP](https://img.shields.io/badge/●-IN_PROGRESS-ffaa00?style=flat-square) |
+
+---
 ## 🏆 Recognition & Awards
 
 | # | Award | Organisation | Year |
@@ -160,15 +170,6 @@
 
 ---
 
-## 🚀 Current Ops
-
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| 🤖 **MAGIC AI** | Self-hosted multi-model LLM gateway deployed across Reliance Group | Claude · Gemini · OpenAI | ![Live](https://img.shields.io/badge/●-LIVE-00cc6a?style=flat-square) |
-| 🦞 **OpenClaw** | Private AI gateway with Telegram + WhatsApp integration | Docker · Nginx · REST APIs | ![Live](https://img.shields.io/badge/●-LIVE-00cc6a?style=flat-square) |
-| 🚀 **Cybrinix** | AI-native cybersecurity startup · India & Dubai markets | GenAI · Zero Trust | ![Active](https://img.shields.io/badge/●-ACTIVE-0099ff?style=flat-square) |
-| 🎙️ **Bytes & Beyond** | Cybersecurity podcast · AI fraud · Digital Bharat themes | Audio · Blog | ![Growing](https://img.shields.io/badge/●-GROWING-aa77ff?style=flat-square) |
-| ⚛️ **DBA Research** | Quantum × AI × Cybersecurity convergence framework | Birchwood University | ![WIP](https://img.shields.io/badge/●-IN_PROGRESS-ffaa00?style=flat-square) |
 
 ---
 
