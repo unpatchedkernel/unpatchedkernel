@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=750&lines=root%40ramdas%3A~%24+whoami+--clearance+ALPHA+--node+MUM-01;%E2%9A%93+Group+CTO+%26+CISO+%7C+Reliance+Group+%7C+30%2B+Companies+%7C+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;%F0%9F%94%90+25+Yrs+Cybersecurity+%7C+15+Yrs+Indian+Navy+%7C+Batch+1%2F99;%F0%9F%A4%96+MAGIC+AI+%7C+OpenClaw+%7C+GenAI+%7C+Zero+Trust+%7C+Quantum+Sec)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2500&pause=800&color=FF4455&center=true&vCenter=true&multiline=false&width=750&lines=root%40ramdas%3A~%24+whoami+--clearance+ALPHA+--node+MUM-01;%E2%9A%93+Group+CTO+%26+CISO+%7C+Reliance+Group+%7C+30%2B+Companies+%7C+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;%F0%9F%94%90+25+Yrs+Cybersecurity+%7C+15+Yrs+Indian+Navy+%7C+Batch+1999;%F0%9F%A4%96+MAGIC+AI+%7C+OpenClaw+%7C+GenAI+%7C+Zero+Trust+%7C+Quantum+Sec)](https://git.io/typing-svg)
 
 </div>
 
