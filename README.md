@@ -6,7 +6,7 @@
 
 ---
 
-## ⚓ PM Ramdas — `Group CTO & CISO · Reliance Group`
+## ⚓ 🛡️ PM Ramdas — The CISO Who's Never Lost a Battle | Countless Threats. Zero Defeats.'
 
 > **25 years** securing enterprises · **15 years** Indian Navy · Defending **Digital Bharat** 🛡️🇮🇳
 
