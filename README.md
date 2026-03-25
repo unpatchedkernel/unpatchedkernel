@@ -4,32 +4,43 @@
 
 </div>
 
+
 ---
 
-## ⚓ 🛡️ PM Ramdas — The CISO Who's Never Lost a Battle | Countless Threats. Zero Defeats.'
-
+## ⚓ 🛡️ PM RAMDAS
+> **The CISO Who's Never Lost a Battle | Countless Threats. Zero Defeats | Sailed Warships. Now Secures Enterprises. Still Undefeated |**
+> 
 > **25 years** securing enterprises · **15 years** Indian Navy · Defending **Digital Bharat** 🛡️🇮🇳
 
 | | |
 |---|---|
 | 🏢 **Current Role** | Group CTO & CISO · Reliance Group (30+ companies) |
-| ⚓ **Service** | Indian Navy · Senior Cyber Security Analyst · Batch 1/99 |
-| 🤖 **Building** | MAGIC AI Gateway · OpenClaw · Cybrinix Startup |
+| ⚓ **Service** | Indian Navy · Senior Cyber Security Analyst · Batch 1999 |
+| 🤖 **Building** | MAGIC AI Gateway · OpenClaw · Cybrinix Startup · ⚡ AI Evangelist|
 | 🎓 **Research** | DBA Candidate · Birchwood University · Quantum × AI × Cybersecurity |
-| 🎙️ **Podcast** | [Bytes & Beyond](https://your-podcast-link) · AI, Fraud & Digital Sovereignty |
+| 🎙️ **Podcast** | [Bytes & Beyond](https://www.bytesandbeyond.blog) · AI, Fraud & Digital Sovereignty |
 | 📍 **Base** | Mumbai (Andheri HQ) → Dubai |
-| 🔓 **Status** | Open to Board Advisory · C-Suite Roles · Strategic Consulting |
+| 🔓 **Status** | Open to Board Advisory · Group / Global C-Suite Roles · Strategic Consulting |
 
 ---
 
-## 🏆 Recognition
+## 🏆 Recognition & Awards
 
-| Award | Org | Year |
-|-------|-----|------|
-| 🥇 Best AI Leader | World AI Show | 2024 |
-| 🥇 Best CIO · Automated Cybersecurity | Economic Times | 2025 |
-| ⚓ Veteran · Senior Cyber Analyst | Indian Navy | Batch 1/99 |
-| 📡 TAC Chairman | Sreedhareeyam Ayurveda Group | Active |
+| # | Award | Organisation | Year |
+|---|-------|-------------|------|
+| 🥇 | Best AI Leader | World AI Show · Trescon Global | 2024 |
+| 🥇 | Best CIO · Excellence in Automated Cybersecurity | Economic Times | 2025 |
+| 🏅 | Best CXO Security Leader | CXOTV | 2024 |
+| 🌐 | Top 100 Cybersecurity Leaders in India | IDC · Foundry | 2024 |
+| 🤖 | Top 100 AI Leaders in India | Trescon Global | 2024 |
+| 🏆 | Best Implementor of Enterprise Security | Indian Express | 2024 |
+| 💡 | Top 100 Technologist in India | Trescon Global | 2022 |
+| 🚀 | Best Big 50 Innovator CISO | Trescon Global | 2019 |
+| 🔐 | Network Security Innovation Award | — | — |
+| ⚓ | Commendation · Flag Officer Commanding-in-Chief | Indian Navy | Service |
+| ⚓ | Commendation · Commanding Officer | Indian Navy | Service |
+| 🌏 | Member · Indian Cyber Security Council | ICSC | Active |
+| 📡 | Chairman · Technical Advisory Committee | Sreedhareeyam Ayurveda Group | Active |
 
 ---
 
@@ -121,17 +132,31 @@
 ```
 
 ---
+## 🎓 Education
 
-## 🎓 Education & Credentials
-
-| Credential | Institution | Status |
-|-----------|-------------|--------|
-| 📘 DBA · Doctor of Business Administration | Birchwood University | 🟡 In Progress |
-| 🛡️ ISO/IEC 27001 Lead Implementer | ISMS Enterprise | 🟢 Active |
-| 📐 NIST Cybersecurity Framework | Enterprise Risk | 🟢 Active |
-| ⚓ Senior Cyber Security Analyst | Indian Navy · 15 Yrs | 🟢 Veteran |
+| Degree | Institution | Year |
+|--------|-------------|------|
+| 📘 DBA · Doctor of Business Administration *(In Progress)* | Birchwood University | Active |
+| 🎓 M.Sc. · Cyber Security & Cyber Laws | IMT Ghaziabad + National Law University, Jodhpur | 2011–2013 |
+| 🎓 B.Sc. · Information Technology | Annamalai University | 2006–2009 |
+| 📡 Diploma · Telecommunications | Cochin University of Science & Technology | 2005–2008 |
+| 🔒 Advanced Network Security | IIT Kharagpur | 2011–2012 |
+| 🇪🇺 Diploma · GDPR & Data Protection | Alison, Ireland | 2024 |
 
 > 🔬 **DBA Research Focus:** Intersection of Generative AI, Quantum Computing, and Enterprise Cybersecurity — building frameworks for India's post-quantum migration roadmap.
+
+## 📜 Certifications
+
+| Certification | Body |
+|--------------|------|
+| 🎯 Certified Ethical Hacker (CEH) | EC-Council |
+| 🔍 Computer Hacking Forensic Investigator (CHFI) | EC-Council |
+| 🧪 Licensed Penetration Tester (LPT) | EC-Council |
+| 🛡️ EC-Council Certified Security Analyst (ECSA) | EC-Council |
+| 📋 ISO 27001 Lead Auditor | ISO |
+| ✅ Certified ISMS Professional (CISP) | ISO |
+| 🇪🇺 GDPR & Data Protection Specialist | Alison |
+## 🎓 Education & Credentials
 
 ---
 
@@ -149,10 +174,10 @@
 
 ## 📡 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PM_Ramdas-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PM_Ramdas-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pmramdas/)
 [![Podcast](https://img.shields.io/badge/🎙️_Bytes_%26_Beyond-Podcast-00FF88?style=for-the-badge)](https://your-podcast-link)
 [![Cybrinix](https://img.shields.io/badge/🚀_Cybrinix-Startup-AA77FF?style=for-the-badge)](https://cybrinix.com)
-[![Email](https://img.shields.io/badge/Email-Contact-FF4455?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact-FF4455?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmramdas@gmail.com)
 
 ---
 
