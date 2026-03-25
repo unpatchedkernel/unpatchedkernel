@@ -35,28 +35,25 @@
 
 ## ⚙️ Capability Matrix
 ```text
-const capabilities = {
-  security: {
-    "Enterprise Cybersecurity"  : "████████████████████ 99%",
-    "Zero Trust Architecture"   : "███████████████████░ 95%",
-    "Threat Intel / APT"        : "███████████████████░ 96%",
-    "SIEM · SOAR · SOC Design"  : "██████████████████░░ 94%",
-    "Incident Response / DFIR"  : "██████████████████░░ 92%",
-    "Risk & Compliance"         : "███████████████████░ 96%",
-  },
-  ai_emerging: {
-    "GenAI / LLM Security"      : "███████████████████░ 97%",
-    "AI Red Teaming"            : "██████████████████░░ 93%",
-    "Multi-Model AI Gateway"    : "██████████████████░░ 90%",
-    "Quantum Cryptography"      : "█████████████████░░░ 86%",
-    "Post-Quantum Migration"    : "████████████████░░░░ 84%",
-  },
-  leadership: {
-    "C-Suite / Board Advisory"  : "████████████████████ 98%",
-    "Digital Strategy"          : "███████████████████░ 95%",
-    "Team Building (500+ Pros)" : "████████████████████ 99%",
-  },
-};
+╔══ SECURITY ════════════════════════════════════════════════╗
+  Enterprise Cybersecurity   ┃ ████████████████████ ┃ 99%
+  Zero Trust Architecture    ┃ ███████████████████░ ┃ 95%
+  Threat Intel / APT         ┃ ███████████████████░ ┃ 96%
+  SIEM · SOAR · SOC Design   ┃ ██████████████████░░ ┃ 94%
+  Incident Response / DFIR   ┃ ██████████████████░░ ┃ 92%
+  Risk & Compliance          ┃ ███████████████████░ ┃ 96%
+
+╔══ AI & EMERGING TECH ══════════════════════════════════════╗
+  GenAI / LLM Security       ┃ ███████████████████░ ┃ 97%
+  AI Red Teaming             ┃ ██████████████████░░ ┃ 93%
+  Multi-Model AI Gateway     ┃ ██████████████████░░ ┃ 90%
+  Quantum Cryptography       ┃ █████████████████░░░ ┃ 86%
+  Post-Quantum Migration     ┃ ████████████████░░░░ ┃ 84%
+
+╔══ LEADERSHIP ══════════════════════════════════════════════╗
+  C-Suite / Board Advisory   ┃ ████████████████████ ┃ 98%
+  Digital Strategy           ┃ ███████████████████░ ┃ 95%
+  Team Building (500+ Pros)  ┃ ████████████████████ ┃ 99%
 ```
 
 ---
