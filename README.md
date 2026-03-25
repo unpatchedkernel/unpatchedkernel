@@ -34,7 +34,7 @@
 ---
 
 ## ⚙️ Capability Matrix
-```javascript
+```text
 const capabilities = {
   security: {
     "Enterprise Cybersecurity"  : "████████████████████ 99%",
