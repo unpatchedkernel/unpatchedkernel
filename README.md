@@ -46,7 +46,7 @@
 | 🏆 | Best Implementor of Enterprise Security | Indian Express | 2024 |
 | 💡 | Top 100 Technologist in India | Trescon Global | 2022 |
 | 🚀 | Best Big 50 Innovator CISO | Trescon Global | 2019 |
-| 🔐 | Network Security Innovation Award | — | — |
+| 🔐 | Network Security Innovation Award | Indian Navy | 2005 |
 | ⚓ | Commendation · Flag Officer Commanding-in-Chief | Indian Navy | Service |
 | ⚓ | Commendation · Commanding Officer | Indian Navy | Service |
 | 🌏 | Member · Indian Cyber Security Council | ICSC | Active |
@@ -123,7 +123,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
-│  2020 → NOW  ●  Group CTO & CISO · Reliance Group                  │
+│  2020 → NOW  ●  Group CTO & CISO · Reliance Group                   │
 │              │  30+ companies · 500+ cyber professionals            │
 │              │  Built MAGIC AI platform (OpenClaw multi-model LLM   │
 │              │  gateway) · Drove enterprise-wide Zero Trust rollout │
@@ -166,12 +166,9 @@
 | 📋 ISO 27001 Lead Auditor | ISO |
 | ✅ Certified ISMS Professional (CISP) | ISO |
 | 🇪🇺 GDPR & Data Protection Specialist | Alison |
-## 🎓 Education & Credentials
 
 ---
 
-
----
 
 ## 📡 Connect
 
