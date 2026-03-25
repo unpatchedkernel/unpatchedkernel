@@ -136,14 +136,14 @@
 ---
 
 ## 🚀 Current Ops
-```bash
-# Live Projects
-./magic-ai      --model multi --providers claude,gemini,openai --deploy reliance-group
-./openclaw      --self-hosted --integrations telegram,whatsapp --status OPERATIONAL
-./cybrinix      --markets india,uae --focus ai-native-security  --stage active
-./bytes-beyond  --format podcast --topics ai-fraud,digital-bharat --episodes growing
-./dba-research  --focus quantum×ai×cybersecurity --uni birchwood --status ongoing
-```
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| 🤖 **MAGIC AI** | Self-hosted multi-model LLM gateway deployed across Reliance Group | Claude · Gemini · OpenAI | ![Live](https://img.shields.io/badge/●-LIVE-00cc6a?style=flat-square) |
+| 🦞 **OpenClaw** | Private AI gateway with Telegram + WhatsApp integration | Docker · Nginx · REST APIs | ![Live](https://img.shields.io/badge/●-LIVE-00cc6a?style=flat-square) |
+| 🚀 **Cybrinix** | AI-native cybersecurity startup · India & Dubai markets | GenAI · Zero Trust | ![Active](https://img.shields.io/badge/●-ACTIVE-0099ff?style=flat-square) |
+| 🎙️ **Bytes & Beyond** | Cybersecurity podcast · AI fraud · Digital Bharat themes | Audio · Blog | ![Growing](https://img.shields.io/badge/●-GROWING-aa77ff?style=flat-square) |
+| ⚛️ **DBA Research** | Quantum × AI × Cybersecurity convergence framework | Birchwood University | ![WIP](https://img.shields.io/badge/●-IN_PROGRESS-ffaa00?style=flat-square) |
 
 ---
 
